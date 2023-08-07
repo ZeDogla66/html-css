@@ -1,0 +1,11 @@
+header {    
+    text-align: center;
+    display: flex;
+    height: 100px;
+}
+
+.container {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+  }
